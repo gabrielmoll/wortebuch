@@ -1,0 +1,11 @@
+azul,blau
+café,braun
+amarillo,gelb
+gris,grau
+verde,grün
+morado,lila
+naranja,orange
+rosa,rosa
+rojo,rot
+negro,schwarz
+blanco,weiß

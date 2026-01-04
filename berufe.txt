@@ -1,0 +1,27 @@
+empleado,der Angestellter
+médico,der Arzt
+aprendiz,der Auszubildender
+Autor,der Autor
+niñero,der Babysitter
+panadero,der Bäcker
+médico,der Doktor
+chofer,der Fahrer
+peluquero,der Friseur
+artesano,der Handwerker
+amo de casa,der Hausmann
+periodista,der Journalist
+comprador,der Kaufmann
+camarero,der Kellner
+concinero,der Koch
+enfermero,der Krankenpfleger
+artista,der Künstler
+profesor,der Lehrer
+mecánico,der Mechaniker
+modelo,der Model
+músico,der Musiker
+policía,der Polizist
+jubilado,der Rentner
+cantante,der Sänger
+actor,der Schauspieler
+técnico,der Techniker
+vendedor,der Verkäufer
